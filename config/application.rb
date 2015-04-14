@@ -30,8 +30,6 @@ module ShaqOverflow
 
     # Do not swallow errors in after_commit/after_rollback callbacks.
     config.active_record.raise_in_transactional_callbacks = true
-  end
-
   config.assets.precompile += %w(*.png *.jpg *.jpeg *.gif,
                                   "fontawesome-webfont.ttf",
                                  "fontawesome-webfont.eot",
@@ -55,4 +53,6 @@ config.assets.precompile << Proc.new do |path|
         false
       end
     end
+  end
+
 end
