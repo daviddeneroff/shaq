@@ -548,3 +548,121 @@ Started GET "/assets/question-9cc39715095d4e05fa3647ea00d586a5.js?body=1" for ::
 
 
 Started GET "/assets/application-a7606ca2d39bd8cba842dfad33263387.js?body=1" for ::1 at 2015-04-14 15:27:16 -0400
+
+
+Started GET "/" for ::1 at 2015-04-14 15:36:21 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 139ms (Views: 130.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/base-9ace492b1eba3665542a7fa8e1f4a9fa.css?body=1" for ::1 at 2015-04-14 15:36:22 -0400
+
+
+Started GET "/assets/font-e62667dfc9f96164adc106093f77951d.css?body=1" for ::1 at 2015-04-14 15:36:22 -0400
+
+
+Started GET "/assets/application-341c6febfb81c499baf602f60f70f0ab.css?body=1" for ::1 at 2015-04-14 15:36:22 -0400
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-14 15:36:22 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-14 15:36:22 -0400
+
+
+Started GET "/assets/answer-ff84f1ae2132f6ae0178b1e766bf7f24.js?body=1" for ::1 at 2015-04-14 15:36:22 -0400
+
+
+Started GET "/assets/app-276fcb59e629114cc5b6392773a956e2.js?body=1" for ::1 at 2015-04-14 15:36:22 -0400
+
+
+Started GET "/assets/comment-4a3260b3bc3c301cd1b059ca5e2ec1f2.js?body=1" for ::1 at 2015-04-14 15:36:22 -0400
+
+
+Started GET "/assets/login-e48bffc4427e5aee6b0443ee5cfa4253.js?body=1" for ::1 at 2015-04-14 15:36:22 -0400
+
+
+Started GET "/assets/question-9cc39715095d4e05fa3647ea00d586a5.js?body=1" for ::1 at 2015-04-14 15:36:22 -0400
+
+
+Started GET "/assets/application-a7606ca2d39bd8cba842dfad33263387.js?body=1" for ::1 at 2015-04-14 15:36:22 -0400
+
+
+Started GET "/" for ::1 at 2015-04-14 15:36:25 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 91ms (Views: 89.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/base-9ace492b1eba3665542a7fa8e1f4a9fa.css?body=1" for ::1 at 2015-04-14 15:36:25 -0400
+
+
+Started GET "/assets/font-e62667dfc9f96164adc106093f77951d.css?body=1" for ::1 at 2015-04-14 15:36:25 -0400
+
+
+Started GET "/assets/application-341c6febfb81c499baf602f60f70f0ab.css?body=1" for ::1 at 2015-04-14 15:36:25 -0400
+
+
+Started GET "/assets/answer-ff84f1ae2132f6ae0178b1e766bf7f24.js?body=1" for ::1 at 2015-04-14 15:36:25 -0400
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-14 15:36:25 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-14 15:36:25 -0400
+
+
+Started GET "/assets/app-276fcb59e629114cc5b6392773a956e2.js?body=1" for ::1 at 2015-04-14 15:36:25 -0400
+
+
+Started GET "/assets/comment-4a3260b3bc3c301cd1b059ca5e2ec1f2.js?body=1" for ::1 at 2015-04-14 15:36:25 -0400
+
+
+Started GET "/assets/login-e48bffc4427e5aee6b0443ee5cfa4253.js?body=1" for ::1 at 2015-04-14 15:36:25 -0400
+
+
+Started GET "/assets/question-9cc39715095d4e05fa3647ea00d586a5.js?body=1" for ::1 at 2015-04-14 15:36:25 -0400
+
+
+Started GET "/assets/application-a7606ca2d39bd8cba842dfad33263387.js?body=1" for ::1 at 2015-04-14 15:36:25 -0400
+
+
+Started GET "/" for ::1 at 2015-04-14 15:36:26 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 98ms (Views: 97.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/base-9ace492b1eba3665542a7fa8e1f4a9fa.css?body=1" for ::1 at 2015-04-14 15:36:26 -0400
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-14 15:36:26 -0400
+
+
+Started GET "/assets/app-276fcb59e629114cc5b6392773a956e2.js?body=1" for ::1 at 2015-04-14 15:36:26 -0400
+
+
+Started GET "/assets/font-e62667dfc9f96164adc106093f77951d.css?body=1" for ::1 at 2015-04-14 15:36:26 -0400
+
+
+Started GET "/assets/answer-ff84f1ae2132f6ae0178b1e766bf7f24.js?body=1" for ::1 at 2015-04-14 15:36:26 -0400
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-14 15:36:26 -0400
+
+
+Started GET "/assets/application-341c6febfb81c499baf602f60f70f0ab.css?body=1" for ::1 at 2015-04-14 15:36:26 -0400
+
+
+Started GET "/assets/comment-4a3260b3bc3c301cd1b059ca5e2ec1f2.js?body=1" for ::1 at 2015-04-14 15:36:27 -0400
+
+
+Started GET "/assets/login-e48bffc4427e5aee6b0443ee5cfa4253.js?body=1" for ::1 at 2015-04-14 15:36:27 -0400
+
+
+Started GET "/assets/question-9cc39715095d4e05fa3647ea00d586a5.js?body=1" for ::1 at 2015-04-14 15:36:27 -0400
+
+
+Started GET "/assets/application-a7606ca2d39bd8cba842dfad33263387.js?body=1" for ::1 at 2015-04-14 15:36:27 -0400
