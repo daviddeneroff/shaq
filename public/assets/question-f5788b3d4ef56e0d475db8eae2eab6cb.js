@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".add-question").click(function(t){t.preventDefault();var e=($(t.target),$(this).attr("href"));$.ajax({type:"get",url:e,success:function(t){$("#main").after(t)}})})});
